@@ -1,0 +1,23 @@
+{
+  "name": "amagni",
+  "version": "1.0.0",
+  "description": "Fetches the current Ethereum gas price.",
+  "main": "ethereumGasFetcher.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArvidShanahan/amagni.git"
+  },
+  "keywords": [
+    "ethereum",
+    "gas",
+    "maiores"
+  ],
+  "author": "KamrenHeathcote",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "ethereum-gas-fetcher": "^0.1.0",
+    "web3": "^1.5.2",
+    "yargs": "^17.2.1"
+  }
+}
